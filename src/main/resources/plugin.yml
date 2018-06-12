@@ -1,0 +1,9 @@
+name: KillTheCore
+main: net.disaapsesv.gamecore.killthecore.GameCore
+version: 1
+commands:
+  mysql:
+    description: Manage MySQL
+    usage /<command>
+    permission: killthecore.mysql
+    permission-message: You don't have permission.
