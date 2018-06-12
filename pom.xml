@@ -5,7 +5,7 @@
   <version>0.1</version>
   <name>KillTheCore</name>
   <description>GameCore-KillTheCore-on-Disaapsesv</description>
-        <build>
+  <build>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
